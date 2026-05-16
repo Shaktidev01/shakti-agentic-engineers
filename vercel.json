@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/shakti-agentic-engineers-dark-actual-visible.html" }
+  ]
+}
